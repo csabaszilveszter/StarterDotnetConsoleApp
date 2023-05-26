@@ -16,9 +16,9 @@ Start VSCode in the project:
 ```sh
 cd StarterDotnetConsoleApp
 code .  # start vscode
-```
 
-Then follow the instructions 
+# then restart in devcontainer (as vcsode offers it)
+```
 
 ## Run `dotnet` cli in your shell without installing it
 
